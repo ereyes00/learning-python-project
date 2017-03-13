@@ -1,5 +1,5 @@
 # learning-python-project
-Methods and resources I used to learn Python and write a research paper in one month. The end goal is to make try to make a calender app.
+Methods and resources I used to learn Python and write a research paper in one month. The end goal is to make a calender app.
 
 ## Top Three Resources
 (As recommended by other developers)
